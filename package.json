@@ -1,0 +1,14 @@
+{
+  "name": "@srcld/sourlog",
+  "version": "0.0.4",
+  "description": "Simple logging module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "",
+  "license": "MIT"
+}
